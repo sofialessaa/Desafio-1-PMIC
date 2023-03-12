@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    width: 48%;
+    background-image: url(imagens/fundo.png);    
+}
+
+.topo{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.capa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 26px;
+}
+
+h4{text-align: center;}
