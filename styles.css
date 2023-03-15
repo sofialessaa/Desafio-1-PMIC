@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    width: 48%;    
+}
+
+#imagemdefundo{
+    background-image: url(imagens/fundo.png);
+}
+
+#imagemdefundo2{
+    background-image: url(imagens/fundo2.png);
+}
+
+h4{text-align: center;}
+
+
+/* Página Home */
+.topo1{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.capa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 26px;
+}
+
+
+/* Página Quem Somos */
+.topo2{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.topicos{
+    padding: 0;
+    margin-left: 20px;
+    line-height: 5px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+
+/* Página Contato */
+.topo3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
